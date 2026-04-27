@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&random=false&width=700&height=80&lines=Hey+%F0%9F%91%8B%2C+I'm+Yashwanth+Gadagani;Full-Stack+Dev+%C2%B7+AI%2FML+Builder+%C2%B7+Python+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&random=false&width=700&height=80&lines=Hey+%F0%9F%91%8B%2C+I'm+Yashwanth;Full-Stack+Dev+%C2%B7+AI%2FML+Builder+%C2%B7+Python+Enthusiast)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:00d4ff,100:0f3460&height=180&section=header&text=&fontSize=0" width="100%"/>
 
@@ -19,7 +19,7 @@
 ```python
 class Yashwanth:
     def __init__(self):
-        self.name       = "Gadagani Yashwanth"
+        self.name       = "Yashwanth"
         self.role       = "Full-Stack Developer & AI/ML Enthusiast"
         self.location   = "Hyderabad, India 🇮🇳"
         self.education  = "B.Sc. — Bhavans New Science College (2024–2028)"
