@@ -239,7 +239,7 @@ Intelligent automation pipelines that reduced manual processing time by **~60%**
 [![Email](https://img.shields.io/badge/hiyash04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiyash04@gmail.com)
 [![GitHub](https://img.shields.io/badge/@Asdfyash1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asdfyash1)
 [![Hugging Face](https://img.shields.io/badge/yashasf-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/yashasf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asdyash)
 
 </div>
 
