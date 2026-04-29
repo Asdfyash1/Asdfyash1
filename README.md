@@ -86,6 +86,7 @@ class Yashwanth:
 <br/>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA_NIMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -114,6 +115,53 @@ class Yashwanth:
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🔍 CodePulse — AI Codebase Analyzer
+Beautiful CLI that analyzes codebases with **AI-powered insights** — health scores, architecture review, and improvement suggestions.
+
+`Python` `Rich` `OpenAI` `Gemini` `NVIDIA`
+
+- Language breakdown, LOC stats, complexity metrics
+- AI code review & architecture recommendations
+- Multi-provider: OpenAI, Gemini, NVIDIA APIs
+
+[![CI](https://github.com/Asdfyash1/codepulse/actions/workflows/ci.yml/badge.svg)](https://github.com/Asdfyash1/codepulse/actions/workflows/ci.yml)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Asdfyash1/codepulse)
+
+</td>
+<td width="50%" valign="top">
+
+### 📂 AutoOrganize — AI File Organizer
+Smart CLI that auto-sorts files using **AI-powered content analysis** — goes beyond extensions to understand what files actually contain.
+
+`Python` `OpenAI` `Gemini` `NVIDIA` `Watchdog`
+
+- AI reads file contents for intelligent categorization
+- Real-time watch mode, YAML rules, undo support
+- AI-powered filename suggestions
+
+[![CI](https://github.com/Asdfyash1/autoorganize/actions/workflows/ci.yml/badge.svg)](https://github.com/Asdfyash1/autoorganize/actions/workflows/ci.yml)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Asdfyash1/autoorganize)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ QuickAPI — AI API Scaffolder
+CLI that generates **production-ready FastAPI projects** from plain English using AI — describe your API, get working code.
+
+`Python` `FastAPI` `OpenAI` `Gemini` `NVIDIA`
+
+- AI generates routes, models & endpoints from descriptions
+- Full project scaffolding (Docker, tests, auth, DB)
+- Multi-provider AI support
+
+[![CI](https://github.com/Asdfyash1/quickapi/actions/workflows/ci.yml/badge.svg)](https://github.com/Asdfyash1/quickapi/actions/workflows/ci.yml)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Asdfyash1/quickapi)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🤖 Project Jarvis — AI Voice Assistant
